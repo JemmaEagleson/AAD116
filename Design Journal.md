@@ -6,8 +6,8 @@ Design Journal for Introduction to Communication Design
 Week 1 
 -------
 Week 2
-insert mark down sheet
 -------
+insert mark down sheet
 Week 3 
 -------
 Week 4 
