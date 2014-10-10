@@ -5,21 +5,24 @@ Design Journal for Introduction to Communication Design
 
 Week 1 
 -------
-Week 1 
+Week 2
+insert mark down sheet
 -------
-Week 1 
+Week 3 
 -------
-Week 1 
+Week 4 
 -------
-Week 1 
+Week 5 
 -------
-Week 1 
+Week 6 
 -------
-Week 1 
+Week 7 
 -------
-Week 1 
+Week 8 
 -------
-Week 1 
+Week 9 
 -------
-Week 1 
+Week 10 
+-------
+Week 11
 -------
