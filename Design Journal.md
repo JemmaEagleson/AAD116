@@ -5,7 +5,7 @@ Design Journal for Introduction to Communication Design
 
 Week 1 
 -------
-In our first week of IxD we had a breif look at two important tools that we would be using throughout the course. We were asked to download a copy of 'Atom' and familiarise ourselves with the program. Not being familiar with code I was glad that we were starting off easy! To get started we were provided with a text file which we then had to render what we seen in Markdown. The text can be seen below: 
+In our first week of IxD we had a breif look at two important tools that we would be using throughout the course. We were asked to download a copy of ['Atom'](https://atom.io) and familiarise ourselves with the program. Not being familiar with code I was glad that we were starting off easy! To get started we were provided with a text file which we then had to render what we seen in Markdown. The text can be seen below: 
 ![Markdown Task Sheet](https://cloud.githubusercontent.com/assets/8933902/4604342/24ea3094-5195-11e4-9bea-5b7d7cef77b9.jpg)
 I marked things such as the headings, lists and paragraphs down but was unable to duplicate the text exactly as this will come later using CSS. 
 
@@ -22,6 +22,7 @@ Friday's lecture was an introdtuction to our first module 'Communication Design'
 We spent some time looking at people like Dieter Rams, Russel Mills, Jonathan Ive and Guillermo del Toro. One of the people who really stood out to me was Dieter Rams who was an Indusrtrial Designer and was popular around the 1950's. I really liked his work so I did some research into other projects that he was involved in. In 1955 Rams applied for a job to work in Braun and quickly became interested in product design. One of my favourite products that he designed was one that Paul had mentioned, the iconic 'Braun SK 4 radiogram, 1956'. 
 
 ![Record Player](https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/254/crops/350.jpg) 
+__[Image source:] (https://www.vitsoe.com/gb/about/dieter-rams)__
 
 The simplicity of this radiogram is what makes me really love it. During the 50's similar products were designed entirely out of wood and were elaboartely decorated. Dieter Rams wanted to move away from this and so created something that was simple and timeless. The lines on the front really stood out to me as they are so clean and really add to the beauty of the product. Below is a quote which I feel summarises why Dieter Rams' wanted to create something classic and uncomplicated:
 
