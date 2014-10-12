@@ -15,32 +15,15 @@ As well as touching on Markdown we broke into groups and worked in a team to cre
 
 __Friday Lecture__ 
 ------------------
-Friday's lecture covered an overall look at the module and what we would be covering in the upcoming weeks. 
+Friday's lecture was an introdtuction to our first module 'Communication Design' and covered an overall look at what we would be covering in the upcoming weeks. 
 
-We spent some time looking at Dieter Rams who was an Indusrtrial Designer and was popular around the 1950's. I really liked his work so I did some research into other projects that he was involved in. In 1955 Rams applied for a job to work in Braun and quickly became interested in product design. One of my favourite products that he designed was one that Paul had mentioned, the 'Braun SK 4 radiogram, 1956'. 
+We spent some time looking at people like Dieter Rams, Russel Mills, Jonathan Ive and Guillermo del Toro. One of the people who really stood out to me was Dieter Rams who was an Indusrtrial Designer and was popular around the 1950's. I really liked his work so I did some research into other projects that he was involved in. In 1955 Rams applied for a job to work in Braun and quickly became interested in product design. One of my favourite products that he designed was one that Paul had mentioned, the 'Braun SK 4 radiogram, 1956'. 
 
 ![Record Player](https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/254/crops/350.jpg) 
 
-The simplicity of this radiogram is what makes me really love it. During the 50's similar products were designed entirely out of wood and were elaboartely decorated. Dieter Rams wanted to move away from this and so created something that was simple and timeless. The lines on the front really stood out to me as they are so clean and really add to the beauty of the product. 
-
-
-
+The simplicity of this radiogram is what makes me really love it. During the 50's similar products were designed entirely out of wood and were elaboartely decorated. Dieter Rams wanted to move away from this and so created something that was simple and timeless. The lines on the front really stood out to me as they are so clean and really add to the beauty of the product. Below is a quote which I feel summarises why Dieter Rams' wanted to create something classic and uncomplicated:
 
 _“I imagine our current situation will cause future generations to shudder at the thoughtlessness in the way in which we today fill our homes, our cities and our landscape with a chaos of assorted junk.” Dieter Rams_
-
-
-
-
-
-
-
-
-We looked at Guillermo del Toro and saw how a knowledge and appreciation of past artists has helped him develop the fascinating creatures in the movies such as Pan’s Labrynth and Pacific Rim.
-
-
-
-The other project for IxD and IMD is the Type Tile project. Over the coming weeks you will choose a period of history and pick out a typeface that particularly appealed to you. You will make up a 3 x 3 grid of these, as the per image below, and present it as part of your final submission.
-
 
 Week 2
 -------
