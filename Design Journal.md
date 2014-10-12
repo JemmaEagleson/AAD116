@@ -11,7 +11,9 @@ I marked things such as the headings, lists and paragraphs down but was unable t
 
 ![Atom Screenshot](https://cloud.githubusercontent.com/assets/8933902/4604637/76f623da-51ad-11e4-8fa5-8e15a915e66a.png)
 
-As well as touching on Markdown we broke into groups and worked in a team to create an idea from the influence of space. Looking at space made us realise the power of circles and how many ideas can arise from using simple shapes. Along with a breif we brainstormed words relating to space which helped us to come up with a concept for an educational app about the universe. Our group created an alien avatar which had voice recognition, short games and quizes which made the app fun yet informative at the same time. Using pen and paper meant that we could quickly and easily develop our ideas by looking at different layouts and features. When we had our final idea we each presented our concept to the class. 
+As well as touching on Markdown we broke into groups and worked in a team to create an idea from the influence of space. Looking at space made us realise the power of circles and how many ideas can arise from using simple shapes. 
+
+Along with a breif we brainstormed words relating to space which helped us to come up with a concept for an educational app about the universe. Our group created an alien avatar which had voice recognition, short games and quizes which made the app fun yet informative at the same time. Using pen and paper meant that we could quickly and easily develop our ideas by looking at different layouts and features. When we had our final idea we each presented our concept to the class. 
 
 __Friday Lecture__ 
 ------------------
@@ -23,7 +25,7 @@ We spent some time looking at people like Dieter Rams, Russel Mills, Jonathan Iv
 
 The simplicity of this radiogram is what makes me really love it. During the 50's similar products were designed entirely out of wood and were elaboartely decorated. Dieter Rams wanted to move away from this and so created something that was simple and timeless. The lines on the front really stood out to me as they are so clean and really add to the beauty of the product. Below is a quote which I feel summarises why Dieter Rams' wanted to create something classic and uncomplicated:
 
-_“I imagine our current situation will cause future generations to shudder at the thoughtlessness in the way in which we today fill our homes, our cities and our landscape with a chaos of assorted junk.” Dieter Rams_
+>_“I imagine our current situation will cause future generations to shudder at the thoughtlessness in the way in which we today fill our homes, our cities and our landscape with a chaos of assorted junk.” Dieter Rams_
 
 We were also given a 'Type Tile' project to work on over the next few weeks. This consists of a 3x3 grid of various typefaces from different periods of history. I love typography and will really enjoy working on this and experimenting with different typefaces. 
 
@@ -31,8 +33,9 @@ Week 2
 -------
 At the start of this week we ran through what would be expected from us over the next few weeks and what we would be covering within this module. This week we will be looking at circles and sticking working on paper to start ourselves off. 
 
-We watched a really inspiring video from Inge Druckrey called ['Teaching to See'](http://vimeo.com/45232468)
+On Monday we watched a really inspiring video from Inge Druckrey called ['Teaching to See'](http://vimeo.com/45232468). It made me realise just how much you can do with a simple circle or line.  
 
+>_"You really learn to look"- Inge Druckrey_
 
 
 Using just a circle stencil, a pen and some squared paper we began by carefully placing circles within squares to create surprisingly interesting patterns. We started off by just placing 1 circle in each square and worked our way up from 2 to 3 to 5 to 50. I feel that doing this really made me think about how the placement of items on a page really matters whether it be one circle or fifty. 
@@ -57,8 +60,14 @@ Make sure you research others, don't let the list above be your only source of m
 
 This, combined with your research and work on the Markdown file last week will equate to 20% of this modules mark. The completion date for this part of your coursework is Friday 16th October. Your work should be presented on your GitHub site (we will look at creating additional pages over the next week or two so don’t worry about where everything will go.
 
+
+
 Week 3 
 -------
+
+
+
+Responsive Images @ rumble labs
 Week 4 
 -------
 Week 5 
