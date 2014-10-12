@@ -17,12 +17,19 @@ __Friday Lecture__
 ------------------
 Friday's lecture covered an overall look at the module and what we would be covering in the upcoming weeks. 
 
-We spent some time looking at Dieter Rams who was an Indusrtrial Designer and was popular around the 1950's. I really liked his work so I did some research into other projects that he was involved in. In 1955 Rams applied for a job to work in Braun and quickly became interested in product design. 
+We spent some time looking at Dieter Rams who was an Indusrtrial Designer and was popular around the 1950's. I really liked his work so I did some research into other projects that he was involved in. In 1955 Rams applied for a job to work in Braun and quickly became interested in product design. One of my favourite products that he designed was one that Paul had mentioned, the 'Braun SK 4 radiogram, 1956'. 
+
+![Record Player](https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/254/crops/350.jpg) 
+
+The simplicity of this radiogram is what makes me really love it. During the 50's similar products were designed entirely out of wood and were elaboartely decorated. Dieter Rams wanted to move away from this and so created something that was simple and timeless. The lines on the front really stood out to me as they are so clean and really add to the beauty of the product. 
+
+
+
 
 _“I imagine our current situation will cause future generations to shudder at the thoughtlessness in the way in which we today fill our homes, our cities and our landscape with a chaos of assorted junk.” Dieter Rams_
 
 
-![Record Player](https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/254/crops/350.jpg) 
+
 
 
 
