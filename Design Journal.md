@@ -22,6 +22,7 @@ Friday's lecture was an introdtuction to our first module 'Communication Design'
 We spent some time looking at people like Dieter Rams, Russel Mills, Jonathan Ive and Guillermo del Toro. One of the people who really stood out to me was Dieter Rams who was an Indusrtrial Designer and was popular around the 1950's. I really liked his work so I did some research into other projects that he was involved in. In 1955 Rams applied for a job to work in Braun and quickly became interested in product design. One of my favourite products that he designed was one that Paul had mentioned, the iconic 'Braun SK 4 radiogram, 1956'. 
 
 ![Record Player](https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/254/crops/350.jpg) 
+
 _Image source: https://www.vitsoe.com/gb/about/dieter-rams_
 
 The simplicity of this radiogram is what makes me really love it. During the 50's similar products were designed entirely out of wood and were elaboartely decorated. Dieter Rams wanted to move away from this and so created something that was simple and timeless. The lines on the front really stood out to me as they are so clean and really add to the beauty of the product. Below is a quote which I feel summarises why Dieter Rams' wanted to create something classic and uncomplicated:
@@ -42,6 +43,7 @@ Using just a circle stencil, a pen and some squared paper we began by carefully 
 
 One of Inge Druckrey's posters really made me think about the positioning of large and small objects beside eachother and by working with circles helped me to understand how positioning, scale and pattern can work together to create a brilliant design. 
 
+https://cloud.githubusercontent.com/assets/8933902/4604766/53442852-51b6-11e4-85f9-fbfd8fa62114.png
 
 
 
