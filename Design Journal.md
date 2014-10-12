@@ -51,7 +51,7 @@ Another task we carried out this week was to get up and running on GitHub. With 
 
 Before I started to add more to my GitHub homepage I wanted to do some research on how other designers are going about their self promotion.
 
-Everyone I researched also seemed to heavily advertise their social media. For example Craig Mod simply had @craigmod as the header of his website which was hyperlinked to Twitter. Another thing I noticed on Jessica Hische's website was that she had buttons connected to each piece of her worked that allowed the user to easily 'Pin' the object to Pinterest which was a really nice feature. 
+Everyone I researched also seemed to heavily advertise their social media. For example Craig Mod simply had @craigmod as the header of his website which was hyperlinked to Twitter. Another thing I noticed on Jessica Hische's website was that she had a button connected to each piece of her work that allowed the user to easily 'Pin' the object to Pinterest which was a really nice feature. 
 
 
 
