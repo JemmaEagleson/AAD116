@@ -9,7 +9,7 @@ In our first week of IxD we had a breif look at two important tools that we woul
 ![Markdown Task Sheet](https://cloud.githubusercontent.com/assets/8933902/4604342/24ea3094-5195-11e4-9bea-5b7d7cef77b9.jpg)
 I marked things such as the headings, lists and paragraphs down but was unable to duplicate the text exactly as this will come later using CSS. 
 
-![Atom Screenshot](https://cloud.githubusercontent.com/assets/8933902/4604382/b2cb50f2-5198-11e4-85d2-a21ee96c1355.png)
+![Atom Screenshot](https://cloud.githubusercontent.com/assets/8933902/4604637/76f623da-51ad-11e4-8fa5-8e15a915e66a.png)
 
 As well as touching on Markdown we broke into groups and worked in a team to create an idea from the influence of space. Looking at space made us realise the power of circles and how many ideas can arise from using simple shapes. Along with a breif we brainstormed words relating to space which helped us to come up with a concept for an educational app about the universe. Our group created an alien avatar which had voice recognition, short games and quizes which made the app fun yet informative at the same time. Using pen and paper meant that we could quickly and easily develop our ideas by looking at different layouts and features. When we had our final idea we each presented our concept to the class. 
 
@@ -25,12 +25,19 @@ The simplicity of this radiogram is what makes me really love it. During the 50'
 
 _“I imagine our current situation will cause future generations to shudder at the thoughtlessness in the way in which we today fill our homes, our cities and our landscape with a chaos of assorted junk.” Dieter Rams_
 
+We were also given a 'Type Tile' project to work on over the next few weeks. This consists of a 3x3 grid of various typefaces from different periods of history. I love typography and will really enjoy working on this and experimenting with different typefaces. 
 
 Week 2
 -------
 At the start of this week we ran through what would be expected from us over the next few weeks and what we would be covering within this module. This week we will be looking at circles and sticking working on paper to start ourselves off. 
 
-Using a circle stencil, a pen and some squared paper we began by carefully placing circles within squares to create  patterns 
+We watched a really inspiring video from Inge Druckrey called ['Teaching to See'](http://vimeo.com/45232468)
+
+
+
+Using just a circle stencil, a pen and some squared paper we began by carefully placing circles within squares to create surprisingly interesting patterns. We started off by just placing 1 circle in each square and worked our way up from 2 to 3 to 5 to 50. I feel that doing this really made me think about how the placement of items on a page really matters whether it be one circle or fifty. 
+
+
 
 
 
