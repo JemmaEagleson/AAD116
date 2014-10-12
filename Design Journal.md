@@ -22,7 +22,7 @@ Friday's lecture was an introdtuction to our first module 'Communication Design'
 We spent some time looking at people like Dieter Rams, Russel Mills, Jonathan Ive and Guillermo del Toro. One of the people who really stood out to me was Dieter Rams who was an Indusrtrial Designer and was popular around the 1950's. I really liked his work so I did some research into other projects that he was involved in. In 1955 Rams applied for a job to work in Braun and quickly became interested in product design. One of my favourite products that he designed was one that Paul had mentioned, the iconic 'Braun SK 4 radiogram, 1956'. 
 
 ![Record Player](https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/254/crops/350.jpg) 
-__[Image source:] (https://www.vitsoe.com/gb/about/dieter-rams)__
+_Image source: https://www.vitsoe.com/gb/about/dieter-rams_
 
 The simplicity of this radiogram is what makes me really love it. During the 50's similar products were designed entirely out of wood and were elaboartely decorated. Dieter Rams wanted to move away from this and so created something that was simple and timeless. The lines on the front really stood out to me as they are so clean and really add to the beauty of the product. Below is a quote which I feel summarises why Dieter Rams' wanted to create something classic and uncomplicated:
 
@@ -34,12 +34,21 @@ Week 2
 -------
 At the start of this week we ran through what would be expected from us over the next few weeks and what we would be covering within this module. This week we will be looking at circles and sticking working on paper to start ourselves off. 
 
-On Monday we watched a really inspiring video from Inge Druckrey called ['Teaching to See'](http://vimeo.com/45232468). It made me realise just how much you can do with a simple circle or line.  
+On Monday we watched a really inspiring video from Inge Druckrey called ['Teaching to See'](http://vimeo.com/45232468). It made me realise just how much thought goes in to the positioning and layout of very simple designs. 
 
 >_"You really learn to look"- Inge Druckrey_
 
-
 Using just a circle stencil, a pen and some squared paper we began by carefully placing circles within squares to create surprisingly interesting patterns. We started off by just placing 1 circle in each square and worked our way up from 2 to 3 to 5 to 50. I feel that doing this really made me think about how the placement of items on a page really matters whether it be one circle or fifty. 
+
+One of Inge Druckrey's posters really made me think about the positioning of large and small objects beside eachother and by working with circles helped me to understand how positioning, scale and pattern can work together to create a brilliant design. 
+
+
+
+
+
+
+
+
 
 
 
