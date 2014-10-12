@@ -41,36 +41,17 @@ On Monday we watched a really inspiring video from Inge Druckrey called ['Teachi
 
 Using just a circle stencil, a pen and some squared paper we began by carefully placing circles within squares to create surprisingly interesting patterns. We started off by just placing 1 circle in each square and worked our way up from 2 to 3 to 5 to 50. I feel that doing this really made me think about how the placement of items on a page really matters whether it be one circle or fifty. 
 
-One of Inge Druckrey's posters really made me think about the positioning of large and small objects beside eachother and by working with circles helped me to understand how positioning, scale and pattern can work together to create a brilliant design. 
+One of Inge Druckrey's posters really made me think about the positioning of large and small objects beside eachother and by working with circles helped me to understand how positioning, scale and pattern can work together to create a brilliant design. For example to the left of the image below you can see Inge Druckrey's poster for 'Yale Women's Forum' has a beautiful mix of type and image. 
 
-https://cloud.githubusercontent.com/assets/8933902/4604766/53442852-51b6-11e4-85f9-fbfd8fa62114.png
+The eye is very quickly drawn to the large W which, at first, grabs your attention and is then led down to the more important information which is to the right and a lot smaller. This poster really inspired me to look at the position of my circles and what people will see first and what they will see after really looking. I have also attached a picture showing how the circle task we carried out has really helped me to spot new things in other's designs. 
 
+![Inge VS Circle](https://cloud.githubusercontent.com/assets/8933902/4604766/53442852-51b6-11e4-85f9-fbfd8fa62114.png)
 
+Another task we carried out this week was to get up and running on GitHub. With Tim's help and his fab 'Hello World' tutorial I was able to set up my own GitHub homepage and connect my social media sites such as Instagram, Flickr and Twitter. I will also change my avatar and upload a new background soon. 
 
+Before I started to add more to my GitHub homepage I wanted to do some research on how other designers are going about their self promotion.
 
-
-
-
-
-
-
-
-
-
-Great to see everyone (almost) up and running on GitHub. Don't worry if you are still having problems getting your page up, we will get that sorted out next week. Tim's excellent [Hello World][11] tutorial will take you through the process and allow you to start personalising the content. We will look at changing the background next week so don’t worry of you can’t do that now.
-
-Your first project for this module will be to get this page up and ruinning and write profile about you. Nothing huge just a few carefully crafted paragraphs introducing you and your work to the world and including links to relevent external sites (Twitter, Instagram, Flickr, etc).
-
-Before putting pen to paper make sure you research how other designers approach their own self promotion. Designers worth checking out are:
-
-Andy Budd
-Craig Mod
-Sarah Parmenter
-Jessica Hische
-Dan Cederholm
-Make sure you research others, don't let the list above be your only source of material.
-
-This, combined with your research and work on the Markdown file last week will equate to 20% of this modules mark. The completion date for this part of your coursework is Friday 16th October. Your work should be presented on your GitHub site (we will look at creating additional pages over the next week or two so don’t worry about where everything will go.
+Everyone I researched also seemed to heavily advertise their social media. For example Craig Mod simply had @craigmod as the header of his website which was hyperlinked to Twitter. Another thing I noticed on Jessica Hische's website was that she had buttons connected to each piece of her worked that allowed the user to easily 'Pin' the object to Pinterest which was a really nice feature. 
 
 
 
