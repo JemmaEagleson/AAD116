@@ -47,11 +47,23 @@ The eye is very quickly drawn to the large W which, at first, grabs your attenti
 
 ![Inge VS Circle](https://cloud.githubusercontent.com/assets/8933902/4604766/53442852-51b6-11e4-85f9-fbfd8fa62114.png)
 
-Another task we carried out this week was to get up and running on GitHub. With Tim's help and his fab 'Hello World' tutorial I was able to set up my own GitHub homepage and connect my social media sites such as Instagram, Flickr and Twitter. I will also change my avatar and upload a new background soon. 
+After carefully hand drawing circles in different layouts to create interesting patterns we were given the task of making wallpapers for the iPhone 5. I downloaded ['Sketch 3'](http://bohemiancoding.com/sketch/) by Bohemian Coding to help me create the 1136 x 640 wallpapers. Using a variety of different layouts and patterns and focusing on just using black and white I managed to create a variety of different wallpapers with the software. 
+
+
+
+
+
+
+Another task we carried out this week was to get up and running on GitHub. With Tim's help and his fab 'Hello World' tutorial I was able to set up my own GitHub homepage and connect all my social media sites such as Instagram, Flickr and Twitter. I will also change my avatar and upload a new background soon. 
 
 Before I started to add more to my GitHub homepage I wanted to do some research on how other designers are going about their self promotion.
 
 Everyone I researched also seemed to heavily advertise their social media. For example Craig Mod simply had @craigmod as the header of his website which was hyperlinked to Twitter. Another thing I noticed on Jessica Hische's website was that she had a button connected to each piece of her work that allowed the user to easily 'Pin' the object to Pinterest which was a really nice feature. 
+
+__Friday Lecture__ 
+------------------
+On Friday Paul gave us an interesting lecture on Cave Painting and Illuminated Manuscripts. We began by looking at cave paintings and prehistoric graffiti. 
+
 
 
 
