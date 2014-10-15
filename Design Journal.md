@@ -50,7 +50,7 @@ The eye is very quickly drawn to the large W which, at first, grabs your attenti
 After carefully hand drawing circles in different layouts to create interesting patterns we were given the task of making wallpapers for the iPhone 5. I downloaded ['Sketch 3'](http://bohemiancoding.com/sketch/) by Bohemian Coding to help me create the 1136 x 640 wallpapers. Using a variety of different layouts and patterns and focusing on just using black and white I managed to create a variety of different wallpapers with the software. 
 
 
-
+<b>INSERT WALLPAPERS.</b>
 
 
 
@@ -58,7 +58,18 @@ Another task we carried out this week was to get up and running on GitHub. With 
 
 Before I started to add more to my GitHub homepage I wanted to do some research on how other designers are going about their self promotion.
 
-Everyone I researched also seemed to heavily advertise their social media. For example Craig Mod simply had @craigmod as the header of his website which was hyperlinked to Twitter. Another thing I noticed on Jessica Hische's website was that she had a button connected to each piece of her work that allowed the user to easily 'Pin' the object to Pinterest which was a really nice feature. 
+I read up on many different designers and how they promote their work and designs. There were many beautiful minimalistic portfolio websites but one of my favourites was [Mickaël Larchevêque](http://dotmick.com/#)'s. His portfolio of work is well spaced and easy to use but delivers a strong visual impact at the same time. He used a simple grid of circles and lines on his homepage to show off his work in an interesting way. 
+
+__Click the picture below to see his work in action!!__
+
+
+[![Youtube](https://cloud.githubusercontent.com/assets/8933902/4655376/b262ee0e-54c2-11e4-97ca-a7cdce4f1635.png)](https://www.youtube.com/watch?v=1NNImHL6BJ0&feature=youtu.be)
+
+Another three designers who's self promotion stood out for me were [Simon Foster](http://simonfosterdesign.com/home/), [Jessica Caldwell](http://jtcdesign.com) and [David Higdon](http://dshigdon.com/home/). I feel that the more simple layouts of these sites keep the user focused on the most important information rather than fussing over unnecessary images or text. For example Jessica Caldwell only uses lines to display her work (Seen Below).
+
+![Jessica Caldwell Screen Shot](https://cloud.githubusercontent.com/assets/8933902/4655618/67650c26-54c6-11e4-86d8-853877e10480.png)
+ 
+Everyone I researched also seemed to heavily advertise their social media. For example [Craig Mod](http://craigmod.com) simply had @craigmod as the header of his website which was hyperlinked to Twitter. Another thing I noticed on Jessica Hische](http://jessicahische.is)'s website was that she had a button connected to each piece of her work that allowed the user to easily 'Pin' the object to Pinterest which was a really nice feature. 
 
 __Friday Lecture__ 
 ------------------
