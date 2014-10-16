@@ -84,12 +84,21 @@ Another album cover we looked at was the 'Chemical Brothers' album artwork for t
 ![CB](https://cloud.githubusercontent.com/assets/8933902/4656678/6a9918dc-54db-11e4-81c2-4a1d532d6902.png)
 
 <i>Caves to Kells</i>
-After analysing the album covers and how modern designers take a lot of inpiration from historical pieces of work we began to look at cave paintings and early written language. The oldest marking made by man was made an estimated 40,800 years ago and was just a simple red dot. This marking is found in n Cantabria in El Castillo where other more detailed markings have also been found. These include hand stencils called 'The Panel of Hands' which were formed by blowing paint against hands which were pressed against the wall of a cave. 
 
+After analysing the album covers and how modern designers take a lot of inpiration from historical pieces of work we began to look at cave paintings and early written language. The oldest marking made by man was made an estimated 40,800 years ago and was just a simple red dot. This marking is found in Cantabria in El Castillo where other detailed markings have also been found. These include hand stencils called 'The Panel of Hands' which were formed by blowing paint against hands which were pressed against the wall of a cave. 
+
+![cave](https://cloud.githubusercontent.com/assets/8933902/4672294/8919d628-558c-11e4-8f79-d1b1466e9a0b.jpg)
+
+Pablo Picasso was said to have been massively influenced by cave paintings which can be seen clearly through his work and abstract style. He even visited the Lascaux Caves in France where he famously said:
+ >“We have invented nothing.”; “We have learned nothing in twelve thousand years.”
+ 
+![Pablo](https://cloud.githubusercontent.com/assets/8933902/4672430/3a99440e-558f-11e4-8581-0b7f1a8bffd3.jpg)
+
+Artists of today are also still taking inspiration from these prehistoric markings or 'prehistoric graffiti'. People like Banksy 
 
 Week 3 
 -------
-
+![My Github](https://cloud.githubusercontent.com/assets/8933902/4672317/29469dd4-558d-11e4-89d8-ae3c1baa2a99.png)
 
 
 Responsive Images @ rumble labs
