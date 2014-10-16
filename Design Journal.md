@@ -76,9 +76,11 @@ __Friday Lecture__
 On Friday Paul gave us an interesting lecture on Cave Painting and Illuminated Manuscripts. We began by looking at different designs that have over time have taken inspiration from history and past artwork. This can be clearly seen by looking at album covers which have been reinturpreted from artwork from the past. 
 
 We were first shown the album cover for Keane's ‘Under The Iron Sea’ (2006) designed by [Sanna Annukka](http://www.sanna-annukka.com). It is obvious that Sanna took inspiration from 'The Great Wave'(1830's) by Hokusai adapting it to suit modern times. There is a huge similarity between the shapes of the horses and the waves, which is backed up by the name of the actual album. I really love the style that this has been done in and has taught me that I can take ideas and inspiration from past artists and their work without just copying them. 
+
 ![Keane](https://cloud.githubusercontent.com/assets/8933902/4656428/7e0e139a-54d6-11e4-9a1d-e28dedaca965.png)
 
 Another album cover we looked at was the 'Chemical Brothers' album artwork for their ‘We Are The Night’ (2007) album. This album cover also shows great similarities, if not a carbon copy, to a piece of work by Herbert Bayer called Lonely Metropolitan (1932). Although the Chemical Brothers may have completly copied Bayer's work both these album covers show that artwork from the past is still influencing modern designers of today.
+
 ![CB](https://cloud.githubusercontent.com/assets/8933902/4656678/6a9918dc-54db-11e4-81c2-4a1d532d6902.png)
 
 
