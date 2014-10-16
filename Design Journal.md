@@ -63,17 +63,23 @@ I read up on many different designers and how they promote their work and design
 __Click the picture below to see his work in action!!__
 
 
-[![Youtube](https://cloud.githubusercontent.com/assets/8933902/4655376/b262ee0e-54c2-11e4-97ca-a7cdce4f1635.png)](https://www.youtube.com/watch?v=1NNImHL6BJ0&feature=youtu.be)
+[![Youtube](https://cloud.githubusercontent.com/assets/8933902/4655273/49d2fc72-54c1-11e4-96c2-3cde8cc56873.png)](https://www.youtube.com/watch?v=1NNImHL6BJ0&feature=youtu.be)
 
 Another three designers who's self promotion stood out for me were [Simon Foster](http://simonfosterdesign.com/home/), [Jessica Caldwell](http://jtcdesign.com) and [David Higdon](http://dshigdon.com/home/). I feel that the more simple layouts of these sites keep the user focused on the most important information rather than fussing over unnecessary images or text. For example Jessica Caldwell only uses lines to display her work (Seen Below).
 
 ![Jessica Caldwell Screen Shot](https://cloud.githubusercontent.com/assets/8933902/4655618/67650c26-54c6-11e4-86d8-853877e10480.png)
  
-Everyone I researched also seemed to heavily advertise their social media. For example [Craig Mod](http://craigmod.com) simply had @craigmod as the header of his website which was hyperlinked to Twitter. Another thing I noticed on Jessica Hische](http://jessicahische.is)'s website was that she had a button connected to each piece of her work that allowed the user to easily 'Pin' the object to Pinterest which was a really nice feature. 
+Everyone I researched also seemed to heavily advertise their social media. For example [Craig Mod](http://craigmod.com) simply had @craigmod as the header of his website which was hyperlinked to Twitter. Another thing I noticed on [Jessica Hische](http://jessicahische.is)'s website was that she had a button connected to each piece of her work that allowed the user to easily 'Pin' the object to Pinterest which was a really nice feature. 
 
 __Friday Lecture__ 
 ------------------
-On Friday Paul gave us an interesting lecture on Cave Painting and Illuminated Manuscripts. We began by looking at cave paintings and prehistoric graffiti. 
+On Friday Paul gave us an interesting lecture on Cave Painting and Illuminated Manuscripts. We began by looking at different designs that have over time have taken inspiration from history and past artwork. This can be clearly seen by looking at album covers which have been reinturpreted from artwork from the past. 
+
+We were first shown the album cover for Keane's ‘Under The Iron Sea’ (2006) designed by [Sanna Annukka](http://www.sanna-annukka.com). It is obvious that Sanna took inspiration from 'The Great Wave'(1830's) by Hokusai adapting it to suit modern times. There is a huge similarity between the shapes of the horses and the waves, which is backed up by the name of the actual album. I really love the style that this has been done in and has taught me that I can take ideas and inspiration from past artists and their work without just copying them. 
+![Keane](https://cloud.githubusercontent.com/assets/8933902/4656428/7e0e139a-54d6-11e4-9a1d-e28dedaca965.png)
+
+Another album cover we looked at was the 'Chemical Brothers' album artwork for their ‘We Are The Night’ (2007) album. This album cover also shows great similarities, if not a carbon copy, to a piece of work by Herbert Bayer called Lonely Metropolitan (1932). Although the Chemical Brothers may have completly copied Bayer's work both these album covers show that artwork from the past is still influencing modern designers of today.
+![CB](https://cloud.githubusercontent.com/assets/8933902/4656678/6a9918dc-54db-11e4-81c2-4a1d532d6902.png)
 
 
 
