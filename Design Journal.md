@@ -83,7 +83,8 @@ Another album cover we looked at was the 'Chemical Brothers' album artwork for t
 
 ![CB](https://cloud.githubusercontent.com/assets/8933902/4656678/6a9918dc-54db-11e4-81c2-4a1d532d6902.png)
 
-
+<i>Caves to Kells</i>
+After analysing the album covers and how modern designers take a lot of inpiration from historical pieces of work we began to look at cave paintings and early written language. The oldest marking made by man was made an estimated 40,800 years ago and was just a simple red dot. This marking is found in n Cantabria in El Castillo where other more detailed markings have also been found. These include hand stencils called 'The Panel of Hands' which were formed by blowing paint against hands which were pressed against the wall of a cave. 
 
 
 Week 3 
