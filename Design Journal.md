@@ -94,7 +94,15 @@ Pablo Picasso was said to have been massively influenced by cave paintings which
  
 ![Pablo](https://cloud.githubusercontent.com/assets/8933902/4672430/3a99440e-558f-11e4-8581-0b7f1a8bffd3.jpg)
 
-Artists of today are also still taking inspiration from these prehistoric markings or 'prehistoric graffiti'. People like Banksy 
+Artists of today are also still taking inspiration from these prehistoric markings or 'prehistoric graffiti' from the past. People like Banksy have have made thousands of pounds from their street art and have aquired a huge fan base. One of Banksy's most recent pieces of work is a mural showing a group of pigeons holding anti-immigration pointing at an exotic bird on it's own to the right of the pigeons. The piece was soon removed after complaints were recieved that the mural was racist and offensive. 
+
+![banksy](https://cloud.githubusercontent.com/assets/8933902/4677628/7f93a760-55ea-11e4-8a5e-8ae2d26c421f.jpg)
+
+As well as looking at prehistoric art we also had a look at the fibonacci sequence and how the 'Golden Section' and how the ratio of  roughly 1:1.6180339887 is widely regarded to give balanced and harmonious proportions to pieces of work.
+
+>"Without mathematics there is no art,"  said Luca Pacioli, a contemporary of Da Vinci.
+
+
 
 Week 3 
 -------
@@ -104,6 +112,10 @@ Week 3
 Responsive Images @ rumble labs
 Week 4 
 -------
+
+Friday Lecture
+--------------
+A Century of Change 
 Week 5 
 -------
 Week 6 
