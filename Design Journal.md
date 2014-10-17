@@ -114,6 +114,7 @@ Leonardo Da Vinci used the fibinacci sequence regularly within his artwork. In h
 
 Week 3 
 -------
+After doing some research last week on how other designers are self promoting I made the decision that the more simplistic profiles appealed much more to me. I kept my Github page minimal in black and white. I used one of my circle drawings and turned it into a background for my profile. A screen shot can be seen below: 
 ![My Github](https://cloud.githubusercontent.com/assets/8933902/4672317/29469dd4-558d-11e4-89d8-ae3c1baa2a99.png)
 
 
