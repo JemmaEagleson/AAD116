@@ -98,9 +98,13 @@ Artists of today are also still taking inspiration from these prehistoric markin
 
 ![banksy](https://cloud.githubusercontent.com/assets/8933902/4677628/7f93a760-55ea-11e4-8a5e-8ae2d26c421f.jpg)
 
-As well as looking at prehistoric art we also had a look at the fibonacci sequence and how the 'Golden Section' and how the ratio of  roughly 1:1.6180339887 is widely regarded to give balanced and harmonious proportions to pieces of work.
+As well as looking at prehistoric art we also had a look at the fibonacci sequence and how the 'Golden Section' and the ratio of roughly 1:1.6180339887 is widely regarded to give balanced and harmonious proportions to pieces of work. 
 
->"Without mathematics there is no art,"  said Luca Pacioli, a contemporary of Da Vinci.
+>"Without mathematics there is no art," - Luca Pacioli, a contemporary of Da Vinci.
+
+Leonardo Da Vinci used the fibinacci sequence regularly within his artwork. In his famous 'The Last Supper' piece all the dimensions of the room, the table and ornamental shields were based 'Golden Ratio'. In Da Vinci's time _(The Renassaince Period)_ this was known as 'The Divine Proportion'. 
+
+![davinci](https://cloud.githubusercontent.com/assets/8933902/4678008/e0f0e748-55ef-11e4-85d4-f7a739e47166.gif)
 
 
 
