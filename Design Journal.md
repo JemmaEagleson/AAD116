@@ -117,18 +117,42 @@ Week 3
 After doing some research last week on how other designers are self promoting I made the decision that the more simplistic profiles appealed much more to me. I kept my Github page minimal in black and white. I used one of my circle drawings and turned it into a background for my profile. A screen shot can be seen below:
 ![My Github](https://cloud.githubusercontent.com/assets/8933902/4672317/29469dd4-558d-11e4-89d8-ae3c1baa2a99.png)
 
+We were also set a group project today on <i>'Pioneers of Postmodern Graphic Design'</i> 
 
-Responsive Images @ rumble labs
+Responsive Images
+------------------
+On Thursday night I attended a talk by Derek Johnson on 'Responsive Images' at Rumble Labs. Responsive images are
+Derek talked about pixel density, fluid layouts, art direction and type-switching. Derek's slides are available online [here](https://speakerdeck.com/derekjohnson/responsive-images-have-landed). 
+![Responsive Images](https://cloud.githubusercontent.com/assets/8933902/5086876/5e32f538-6f19-11e4-9ff3-a0a805a0cd8d.png) 
+
+Friday Lecture
+--------------
+In Friday's lecture Paul went through <i>'Guttenberg and Moveable Type'</i>. 
+
+
 Week 4
 -------
 
 Friday Lecture
 --------------
 A Century of Change
+
 Week 5
 -------
 Week 6
 -------
+This week we looked at Sketch in more depth and learned a lot through different tutorials. We went through some different tutorials   
+
+Bohemian Coding
+Level Up Tuts
+Design + Code
+Sketch App Sources
+
+
+
+
+
+
 Week 7
 -------
 Week 8
